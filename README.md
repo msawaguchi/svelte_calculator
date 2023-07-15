@@ -1,8 +1,9 @@
 Just a very common project to learn about a new tech: this is a simple calculator build with [Svelte](https://svelte.dev) :star2:
  
 <p align="center">
-  <img width="800" alt="svelte_calculator" src="https://github.com/msawaguchi/svelte_calculator/assets/28602785/b9b2b284-27d6-4e4a-95ca-1cc516419856">
+  <img width="800" alt="svelte_calculator" src="https://github.com/msawaguchi/svelte_calculator/assets/28602785/7836d4e4-b3b2-4b41-8848-515bb370e67e">
 </p>
+
 
 ---
 
